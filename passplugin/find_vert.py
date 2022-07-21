@@ -44,7 +44,7 @@ def find_vert():
         #print("[+] 已粘贴到剪贴版.")
         return hook_addr
     else:
-        print("[+++++++] 没找到过抖音证书检测的地方！！")
+        print("[+++++++] 没找到过证书检测的地方！！")
         return
 
 
