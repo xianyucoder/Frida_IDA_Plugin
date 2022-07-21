@@ -1,0 +1,2 @@
+# Frida_IDA_Plugin
+利用frida和IDAPython插件一键过某音fiddler证书检测
