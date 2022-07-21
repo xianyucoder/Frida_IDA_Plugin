@@ -2,7 +2,7 @@
 利用frida和IDAPython插件一键过某音fiddler证书检测
 
 
-# 工具
+## 工具
 ```
 IDA 7.5 
 mouyin V21.2.0-
@@ -12,7 +12,7 @@ fiddler v5.0.20211.51073
 ```
 
 
-# 使用方法
+## 使用方法
 
 ```
 1.把文件 【bypass_certDet.py】 和 【passplugin】  文件夹放到
@@ -29,15 +29,18 @@ fiddler v5.0.20211.51073
 6.就可以利用fiddler抓包了
 ```
 
-# 成功示意图
-## ida图
+## 成功示意图
+### ida图
 ![image](https://user-images.githubusercontent.com/50468890/180230296-e18b49e0-bd6c-4ce8-bd26-14eee6dc29f7.png)
 
 
 
-## fiddler图
+### fiddler图
 ![image](https://user-images.githubusercontent.com/50468890/180229714-c13ad00f-25f4-42f1-88e0-9b38b4d76d2f.png)
 
 
+## 免责声明
+1.若使用者滥用本项目,本人 **无需承担** 任何法律责任.<br />
+2.本程序仅供娱乐,源码全部开源,**禁止滥用** 和二次**贩卖盈利**. **禁止用于商业用途**
 
 
