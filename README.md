@@ -5,7 +5,7 @@
 ## 工具
 ```
 IDA 7.5 
-mouyin V21.2.0-
+mouyin V20.9.0之后
 frida 15.1.1
 Android 11
 fiddler v5.0.20211.51073
