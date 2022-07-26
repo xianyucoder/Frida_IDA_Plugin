@@ -58,7 +58,7 @@ class CopyFunctionAsm(idaapi.plugin_t):
          ) _)    ) _ (  / |_/\   ) _)    ) _)    ) _) 
         (__)    (____/  \____/  (____)  (____)  (____)
                                                                                                                                                                                 
-        https://github.com/FBLeee/frida_bypass_certDet
+        https://github.com/FBLeee/Frida_IDA_Plugin
         -----------------------------------------------------\n
         """
 
